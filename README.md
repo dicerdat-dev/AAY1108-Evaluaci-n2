@@ -1,2 +1,2 @@
-# AAY1108-Evaluaci-n2
-Repositorio evaluación parcial 2 Diego Cerda
+# AAY1108-Evaluaciones parciales
+Repositorio Evaluaciones Parciales Diego Cerda
